@@ -29,9 +29,11 @@
 <p>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
   <img src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4Ij4KPGRlZnM+Cjxnb3YgZmlsbD0iIzQxQjg4MyI+CiAgPG
-JlYWNoZSBmaWxsPSIjNDFCODgzIiBkYXRhLXR5cGU9ImJlY29tZiIgZGF0YS1pZD0iUmVk
-dXgiIHN0eWxlPSJtYXJnaW46IDA7IiAvPjwvZz4KPC9zdmc+Cg==' alt="Redux" width="40" height="40" />&nbsp;
+  JlYWNoZSBmaWxsPSIjNDFCODgzIiBkYXRhLXR5cGU9ImJlY29tZiIgZGF0YS1pZD0iUmVk
+  dXgiIHN0eWxlPSJtYXJnaW46IDA7IiAvPjwvZz4KPC9zdmc+Cg==' alt="Redux" width="40" height="40" />&nbsp;
+  <img src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4Ij4KPGRlZnM+Cjxnb3YgZmlsbD0iIzQxQjg4MyI+CiAgPGJlYWNoZSBmaWxsPSIjNDFCODgzIiBkYXRhLXR5cGU9ImJlY29tZiIgZGF0YS1pZD0iVmV4dCIgc3R5bGU9ImZpbGw6cmVkYXg7IiAvPjwvZz4KPC9zdmc+Cg==' alt="Vuex" width="40" height="40" />&nbsp;
 </p>
+
 
 
   <h3>Testing:</h3>
