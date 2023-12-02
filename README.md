@@ -28,7 +28,7 @@
 <h3>State Management:</h3>
 <p>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
-  <img src='https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png' alt="Vuex" width="40" height="40" />&nbsp;
+  <img src='https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png' alt="Vuex" width="40" height="40" /><p>(Vuex)</p>&nbsp;
 </p>
 
 
@@ -41,7 +41,7 @@
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="Git" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="npm" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="Yarn" width="40" height="40"/><p>(Vuex)</p>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="Yarn" width="40" height="40"/>&nbsp;
     <!-- Add your other tools here -->
   </p>
 </div>
