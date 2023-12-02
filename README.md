@@ -28,7 +28,7 @@
 <h3>State Management:</h3>
 <p>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
-  <img src='[https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png](https://res.cloudinary.com/practicaldev/image/fetch/s--fwhxOB0F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dzro862c8wjfpshr6xou.png)' alt="Vuex" width="40" height="40" />&nbsp;
+  <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fbcostaaa01%2Fhow-does-vuex-work-and-what-to-use-it-for-4d8k&psig=AOvVaw3p7pPTwpYDbgZXbMkKhTn_&ust=1701644244338000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjz8Ynt8YIDFQAAAAAdAAAAABAz' alt="Vuex" width="55" height="40" />&nbsp;
 </p>
 
 
