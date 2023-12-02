@@ -21,9 +21,9 @@
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' alt="Vue.js" width="40" height="40"/>&nbsp;
       <img src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nuxtjs/nuxtjs-original.svg' alt="Nuxt.js" width="40" height="40"/>&nbsp;
+   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt="React" width="40" height="40"/>&nbsp;
      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' alt="Next.js" width="40" height="40"/>&nbsp;
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
   </p>
 <h3>State Management:</h3>
 <p>
