@@ -1,12 +1,3 @@
-# 👋 About Me:
-I'm @Rezansrv, a dedicated web developer with expertise in front-end development and DevOps practices. My focus is on crafting seamless user interfaces and optimizing deployment processes.
-
-# 💼 Collaboration:
-Open to collaboration on web development projects, I bring a mix of creativity and technical prowess. From designing visually appealing interfaces to enhancing project efficiency through DevOps, I ensure exceptional user experiences.
-
-# 🌱 Current Focus:
-Continuously adapting to front-end technologies, I'm mastering React and Vue.js to deliver modern, user-centric solutions.
-
 # 📝 Blog & Articles:
 - [Portfolio](https://rezansrv.pages.dev/)
 
