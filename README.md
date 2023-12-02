@@ -18,9 +18,9 @@ Continuously adapting to front-end technologies, I'm mastering React and Vue.js 
   <h3>Languages:</h3>
   <p> 
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' alt="HTML5" width="40" height="40"/>&nbsp;
+       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' alt="CSS3" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' alt="CSS3" width="40" height="40"/>&nbsp;
   </p>
   <h3>Frameworks:</h3>
   <p>
@@ -49,9 +49,10 @@ Continuously adapting to front-end technologies, I'm mastering React and Vue.js 
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezansrv&theme=light-blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rezansrv&theme=light-blue&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezansrv&theme=light-blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezansrv&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rezansrv&theme=vue&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezansrv&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
