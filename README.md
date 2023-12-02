@@ -25,15 +25,16 @@
      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' alt="Next.js" width="40" height="40"/>&nbsp;
    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
   </p>
-  <h3>State Management:</h3>
-  <p>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40" height="40">
-  <g fill="#41B883">
-    <path d="M118.602 64l-14.608 25.298-13.183 22.855H37.89l-.004-48.298H64V7.108L118.602 64zM10.46 63.882c-.564.978-.977 1.994-1.227 3.047H1.078c-.274 0-.515.196-.573.468-.59 3.862-.622 7.873-.046 11.79.45 2.953 1.273 5.869 2.481 8.673 2.645 4.937 6.506 8.917 11.35 11.098 1.46.661 2.996 1.151 4.534 1.435.138.018.278.027.416.027 5.208 0 10.11-3.064 15.067-6.598 3.033-2.025 6.073-4.557 8.994-7.42 2.93-2.881 5.752-6.471 8.137-10.762 3.62-5.725 5.95-12.263 6.88-18.9H10.46z"/>
-  </g>
-</svg> &nbsp;
-  </p>
+<h3>State Management:</h3>
+<p>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40" height="40">
+    <g fill="#41B883">
+      <path d="M118.602 64l-14.608 25.298-13.183 22.855H37.89l-.004-48.298H64V7.108L118.602 64zM10.46 63.882c-.564.978-.977 1.994-1.227 3.047H1.078c-.274 0-.515.196-.573.468-.59 3.862-.622 7.873-.046 11.79.45 2.953 1.273 5.869 2.481 8.673 2.645 4.937 6.506 8.917 11.35 11.098 1.46.661 2.996 1.151 4.534 1.435.138.018.278.027.416.027 5.208 0 10.11-3.064 15.067-6.598 3.033-2.025 6.073-4.557 8.994-7.42 2.93-2.881 5.752-6.471 8.137-10.762 3.62-5.725 5.95-12.263 6.88-18.9H10.46z"/>
+    </g>
+  </svg>&nbsp;
+</p>
+
   <h3>Testing:</h3>
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' alt="Jest" width="40" height="40"/>&nbsp;
