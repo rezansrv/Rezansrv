@@ -41,7 +41,7 @@
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="Git" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="npm" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="Yarn" width="40" height="40"/>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="Yarn" width="40" height="40"/><p>(Vuex)</p>&nbsp;
     <!-- Add your other tools here -->
   </p>
 </div>
