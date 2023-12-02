@@ -1,4 +1,4 @@
-# 📝 Blog & Articles:
+## 📝 Blog & Articles:
 - [Portfolio](https://rezansrv.pages.dev/)
 
 ## 🌐 Socials:
