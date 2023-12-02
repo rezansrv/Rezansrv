@@ -8,11 +8,12 @@ Open to collaboration on web development projects, I bring a mix of creativity a
 Continuously adapting to front-end technologies, I'm mastering React and Vue.js to deliver modern, user-centric solutions.
 
 # 📝 Blog & Articles:
-- [Tech Blog](https://rezansrv.pages.dev/)
+- [Portfolio](https://rezansrv.pages.dev/)
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rezansrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-naserivand/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rezansrv)
- 
+
+## 💻 Tech Stack:
 
 <div align="left">
   <h3>Languages:</h3>
@@ -24,15 +25,16 @@ Continuously adapting to front-end technologies, I'm mastering React and Vue.js 
   </p>
   <h3>Frameworks:</h3>
   <p>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt="React" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' alt="Vue.js" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
-   <img src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nuxtjs/nuxtjs-original.svg' alt="Nuxt.js" width="40" height="40"/>&nbsp;
+      <img src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nuxtjs/nuxtjs-original.svg' alt="Nuxt.js" width="40" height="40"/>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt="React" width="40" height="40"/>&nbsp;
+     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' alt="Next.js" width="40" height="40"/>&nbsp;
+   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
   </p>
   <h3>State Management:</h3>
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuex/vuex-original-wordmark.svg' alt="Vuex" width="40" height="40"/>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuex/vuex-original.svg' alt="Vuex" width="40" height="40"/>&nbsp;
   </p>
   <h3>Testing:</h3>
   <p>
