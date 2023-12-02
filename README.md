@@ -7,11 +7,12 @@ Open to collaboration on web development projects, I bring a mix of creativity a
 # 🌱 Current Focus:
 Continuously adapting to front-end technologies, I'm mastering React and Vue.js to deliver modern, user-centric solutions.
 
-# 📬 Let's Connect:
-Feel free to reach out on GitHub [@Rezansrv](https://github.com/Rezansrv). Excited about connecting and exploring potential collaborations in the dynamic world of web development!
+# 📝 Blog & Articles:
+- [Tech Blog](https://rezansrv.pages.dev/)
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rezansrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezansrv/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rezansrv)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rezansrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-naserivand/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rezansrv)
+ 
 
 <div align="left">
   <h3>Languages:</h3>
@@ -25,13 +26,13 @@ Feel free to reach out on GitHub [@Rezansrv](https://github.com/Rezansrv). Excit
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt="React" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' alt="Vue.js" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original-wordmark.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original-wordmark.svg' alt="Nuxt.js" width="40" height="40"/>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg' alt="Nuxt.js" width="40" height="40"/>&nbsp;
   </p>
   <h3>State Management:</h3>
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuex/vuex-original.svg' alt="Vuex" width="40" height="40"/>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuex/vuex-original-wordmark.svg' alt="Vuex" width="40" height="40"/>&nbsp;
   </p>
   <h3>Testing:</h3>
   <p>
@@ -48,12 +49,12 @@ Feel free to reach out on GitHub [@Rezansrv](https://github.com/Rezansrv). Excit
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezansrv&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rezansrv&theme=merko&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezansrv&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezansrv&theme=light-blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rezansrv&theme=light-blue&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezansrv&theme=light-blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📝 Blog & Articles:
-- [Tech Blog](https://rezansrv.pages.dev/): Sharing insights and experiences.
+
+
 
 ---
 
