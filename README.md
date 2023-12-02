@@ -19,10 +19,30 @@ I'm open to discussions, collaborations, and new opportunities! Feel free to rea
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+# 🛠️ Tools & Frameworks:
+- Docker
+- Webpack
+- Redux
+- SASS
+- Vuetify
+- Bootstrap
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezansrv&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rezansrv&theme=radical&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezansrv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 🏆 Achievements:
+- Contributed to open-source projects.
+- Completed XYZ certification.
+- Presented at a tech conference.
+
+# 🚧 Current Projects:
+- [Project 1](link-to-project1): Short description.
+- [Project 2](link-to-project2): Short description.
+
+# 📝 Blog & Articles:
+- [My Tech Blog](link-to-blog): Sharing insights and experiences.
 
 ---
 
