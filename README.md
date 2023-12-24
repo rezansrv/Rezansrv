@@ -1,3 +1,11 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Reza+Naserivand;A+Front-end+developer;&center=true&size=30&color=#0194dd&background=FFFFFF00">
+  </a>
+</h1>
+
+<h3 align="center">A Front-end developer 🚀 with experience of building different applications.</h3>
+
 ## 📝 Blog & Articles:
 - [Portfolio](https://rezansrv.pages.dev/)
 
