@@ -7,7 +7,7 @@
 <h3 align="center">A Front-end developer 🚀 with experience of building different applications.</h3>
 
 ## 📝 Blog & Articles:
-- [Portfolio](https://rezansrv.pages.dev/)
+- [Portfolio](https://rezansrv.ir/)
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rezansrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-naserivand/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rezansrv/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rezansrv)
@@ -56,8 +56,11 @@
 </div>
 
 ## 📊 GitHub Stats:
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
 
 
 
