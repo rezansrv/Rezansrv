@@ -6,11 +6,12 @@
 
 <h3 align="center">A Front-end developer 🚀 with experience of building different applications.</h3>
 
-
 ## 🌐 Socials:
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rezansrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-naserivand/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rezansrv/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rezansrv)
 
-## 📝 Blog & Articles:
+## 📝 Blog & Portfolio:
+
 - [Portfolio](https://rezansrv.ir/)
 
 ## 💻 Tech Stack:
@@ -27,7 +28,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' alt="C++" width="40" height="40"/>&nbsp;
 </p>
 
-  <h3>Frameworks:</h3>
+  <h3>Frameworks & Libraries:</h3>
   <p>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' alt="Vue.js" width="40" height="40"/>&nbsp;
       <img src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nuxtjs/nuxtjs-original.svg' alt="Nuxt.js" width="40" height="40"/>&nbsp;
@@ -35,12 +36,12 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt="React" width="40" height="40"/>&nbsp;
      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' alt="Next.js" width="40" height="40"/>&nbsp;
   </p>
-<h3>State Management:</h3>
-<p>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
-  <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--krsrB5fu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5f85jg9q03kiqqck3mi.jpg' alt="Vuex" width="70" height="30" />&nbsp;
-</p>
-
+  
+  <h3>State Management:</h3>
+    <p style="diplay: flex;">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
+      <img src='https://miro.medium.com/v2/resize:fit:1400/1*qc9iypKE2wJrvM99sUZF4Q.png' alt="Vuex" width="80" height="50"/>&nbsp;
+    </p>
 
   <h3>Testing:</h3>
   <p>
@@ -51,15 +52,13 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="Git" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="npm" width="40" height="40"/>&nbsp;
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="Yarn" width="40" height="40"/>&nbsp;
-    <!-- Add your other tools here -->
   </p>
 </div>
 
 ## 📊 GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 ---
 
