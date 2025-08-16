@@ -59,6 +59,18 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 ---
 
 [![Profile Visits](https://visitcount.itsvg.in/api?id=Rezansrv&icon=0&color=0)](https://visitcount.itsvg.in)
