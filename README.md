@@ -70,9 +70,3 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
----
-
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Rezansrv&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
