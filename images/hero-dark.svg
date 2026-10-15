@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title"><title id="title">Reza Naserivand — Software developer working across front-end, AI, SQL, and SQL Server.</title><defs>
+      <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#25364c" stroke-width=".6"/></pattern>
+      <linearGradient id="accent"><stop stop-color="#65c7ff"/><stop offset="1" stop-color="#7de2c0"/></linearGradient>
+      <radialGradient id="halo"><stop stop-color="#65c7ff" stop-opacity=".12"/><stop offset="1" stop-color="#65c7ff" stop-opacity="0"/></radialGradient>
+    </defs>
+    <style>
+      .orbit{transform-origin:944px 231px;animation:orbit 36s linear infinite}
+      .cursor{animation:blink 1.4s steps(2,start) infinite}
+      .rise{animation:rise 5s ease-in-out infinite}
+      @keyframes orbit{to{transform:rotate(360deg)}}
+      @keyframes blink{to{opacity:0}}
+      @keyframes rise{50%{transform:translateY(-7px)}}
+      @media(prefers-reduced-motion:reduce){.orbit,.cursor,.rise{animation:none}}
+    </style>
+    <rect x="1" y="1" width="1198" height="468" rx="24" fill="#0b1220" stroke="#25364c"/>
+    <rect x="1" y="1" width="1198" height="468" rx="24" fill="url(#grid)" opacity=".52"/>
+    <ellipse cx="948" cy="227" rx="300" ry="275" fill="url(#halo)"/>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <rect x="40" y="37" width="40" height="32" rx="8" fill="#111e30" stroke="#25364c"/>
+      <text x="60" y="59" fill="#65c7ff" font-size="15" font-weight="700" text-anchor="middle">rn.</text>
+      <text x="94" y="58" fill="#91a4bb" font-size="12" letter-spacing="2.5">REZANSRV / DEVELOPER PROFILE</text>
+      <text x="1158" y="58" fill="#91a4bb" font-size="12" letter-spacing="2" text-anchor="end">HELLO, INTERNET.</text>
+      <text x="56" y="144" fill="#65c7ff" font-size="13" font-weight="600" letter-spacing="4">SOFTWARE DEVELOPER</text>
+      <text x="50" y="226" fill="#edf4ff" font-size="80" font-weight="750" letter-spacing="-4">REZA</text>
+      <text x="50" y="309" fill="#edf4ff" font-size="80" font-weight="750" letter-spacing="-4">NASERIVAND<tspan fill="#7de2c0">.</tspan></text>
+      <text x="56" y="355" fill="#91a4bb" font-size="19">Building interfaces, working with AI and data.</text>
+      <path d="M56 389H645" stroke="#25364c"/>
+      <text x="56" y="425" fill="#91a4bb" font-size="12" letter-spacing="2">FRONT-END</text>
+      <text x="224" y="425" fill="#91a4bb" font-size="12" letter-spacing="2">AI</text>
+      <text x="422" y="425" fill="#91a4bb" font-size="12" letter-spacing="2">SQL / SQL SERVER</text>
+    </g>
+    <circle cx="944" cy="231" r="180" stroke="#25364c" fill="none" stroke-dasharray="3 9"/>
+    <g class="orbit"><circle cx="944" cy="51" r="5" fill="#7de2c0"/><circle cx="944" cy="411" r="4" fill="#65c7ff"/></g>
+    <g class="rise">
+      <rect x="756" y="130" width="386" height="234" rx="16" fill="#0b1220" stroke="#25364c"/>
+      <path d="M756 172H1142" stroke="#25364c"/>
+      <circle cx="778" cy="151" r="4" fill="#fc8686"/><circle cx="793" cy="151" r="4" fill="#e7c56d"/><circle cx="808" cy="151" r="4" fill="#7de2c0"/>
+      <text x="1120" y="155" fill="#91a4bb" font-family="Consolas,monospace" font-size="11" text-anchor="end">hello.ts</text>
+      <g font-family="Consolas,monospace" font-size="16">
+        <text x="779" y="211" fill="#91a4bb">01 <tspan fill="#65c7ff">const</tspan><tspan fill="#edf4ff"> developer = {</tspan></text>
+        <text x="779" y="243" fill="#91a4bb">02 <tspan fill="#edf4ff">  name: </tspan><tspan fill="#7de2c0">'Reza'</tspan><tspan fill="#edf4ff">,</tspan></text>
+        <text x="779" y="275" fill="#91a4bb">03 <tspan fill="#edf4ff">  focus: </tspan><tspan fill="#7de2c0">'UI + AI + data'</tspan></text>
+        <text x="779" y="307" fill="#91a4bb">04 <tspan fill="#edf4ff">};</tspan></text>
+        <text x="779" y="339" fill="#7de2c0">➜ <tspan fill="#91a4bb">npm run dev</tspan></text>
+        <rect class="cursor" x="927" y="326" width="8" height="16" fill="#7de2c0"/>
+      </g>
+    </g>
+    <rect x="1" y="466" width="1198" height="3" rx="1.5" fill="url(#accent)"/>
+    </svg>

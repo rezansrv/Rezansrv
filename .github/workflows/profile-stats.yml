@@ -1,0 +1,58 @@
+name: Refresh profile stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/profile-stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v6
+
+      - name: Generate activity card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: images/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=false&border_radius=14&bg_color=0B1220&title_color=65C7FF&text_color=CBD5E1&icon_color=7DE2C0&border_color=25364C
+
+      - name: Generate language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: images/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=false&border_radius=14&bg_color=0B1220&title_color=65C7FF&text_color=CBD5E1&border_color=25364C
+
+      - name: Save generated cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add images/stats.svg images/languages.svg
+          if git diff --cached --quiet; then
+            echo 'Profile stats are already current.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh profile stats'
+          git push

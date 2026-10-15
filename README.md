@@ -1,72 +1,133 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Reza+Naserivand;A+Front-end+developer;&center=true&size=30&color=#0194dd&background=FFFFFF00">
-  </a>
-</h1>
-
-<h3 align="center">A Front-end developer 🚀 with experience of building different applications.</h3>
-
-## 🌐 Socials:
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rezansrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-naserivand/)
-## 📝 Blog & Portfolio:
-
-- [Portfolio](https://rezansrv.ir/)
-
-## 💻 Tech Stack:
-
-<div align="left">
-<h3>Languages:</h3>
-<p> 
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' alt="SASS" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="Python" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' alt="C++" width="40" height="40"/>&nbsp;
+<!-- Upload README.md, images/ and .github/workflows/ to the root of Rezansrv/Rezansrv. -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="images/hero-mobile-light.svg" />
+    <source media="(max-width: 600px)" srcset="images/hero-mobile-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="images/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/hero-light.svg" />
+    <img src="images/hero-dark.svg" width="100%" alt="Reza Naserivand — Software developer working across front-end, AI, SQL, and SQL Server." />
+  </picture>
 </p>
 
-  <h3>Frameworks & Libraries:</h3>
-  <p>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' alt="Vue.js" width="40" height="40"/>&nbsp;
-      <img src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nuxtjs/nuxtjs-original.svg' alt="Nuxt.js" width="40" height="40"/>&nbsp;
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' alt="Vuetify" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' alt="React" width="40" height="40"/>&nbsp;
-     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' alt="Next.js" width="40" height="40"/>&nbsp;
-  </p>
-  
-  <h3>State Management:</h3>
-    <p style="diplay: flex;">
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' alt="Redux" width="40" height="40"/>&nbsp;
-      <img src='https://miro.medium.com/v2/resize:fit:1400/1*qc9iypKE2wJrvM99sUZF4Q.png' alt="Vuex" width="80" height="50"/>&nbsp;
-    </p>
+<p align="center">
+  <strong>Front-end · AI · SQL &amp; SQL Server</strong><br />
+  Building interfaces and working with intelligent tools and data.
+</p>
 
-  <h3>Testing:</h3>
-  <p>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' alt="Jest" width="40" height="40"/>&nbsp;
-  </p>
-  <h3>Tools:</h3>
-  <p>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="Git" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="npm" width="40" height="40"/>&nbsp;
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="Yarn" width="40" height="40"/>&nbsp;
-  </p>
-</div>
+<p align="center">
+  <a href="https://rezansrv.ir/"><img src="images/portfolio.svg" width="265" alt="Explore my work — Portfolio" /></a>
+  <a href="https://github.com/Rezansrv?tab=repositories"><img src="images/github.svg" width="265" alt="Browse the code — GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/reza-naserivand/"><img src="images/linkedin.svg" width="265" alt="Let's connect — LinkedIn" /></a>
+</p>
 
-## 📊 GitHub Stats:
+<br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezansrv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 01 / Behind the interface
+
+Hey, I’m **Reza Naserivand** — a software developer working across **front-end development, AI, SQL, and SQL Server**.
+
+On the interface side, I work with **Vue and React**, along with **Nuxt and Next.js**. My toolkit also includes TypeScript, JavaScript, Sass, state management with Vuex and Redux, and testing with Jest. I also work with **AI and databases**, using SQL and SQL Server.
+
+I like turning ideas into things people can use — from the interface they see to the data behind it.
+
+```ts
+const reza = {
+  role: "Software developer",
+  focus: ["Front-end", "AI", "SQL Server"],
+  ecosystems: ["Vue", "React"],
+  languages: [
+    "TypeScript", "JavaScript",
+    "Python", "C++",
+  ],
+  portfolio: "https://rezansrv.ir",
+};
+```
+
+## 02 / Tools of the trade
+
+**Languages**
+
+<p>
+  <img src="images/tech-languages-0.svg" height="42" alt="TypeScript" />
+  <img src="images/tech-languages-1.svg" height="42" alt="JavaScript" />
+  <img src="images/tech-languages-2.svg" height="42" alt="Python" />
+  <img src="images/tech-languages-3.svg" height="42" alt="C++" />
+</p>
+
+**Interface &amp; styling**
+
+<p>
+  <img src="images/tech-interface-0.svg" height="42" alt="HTML5" />
+  <img src="images/tech-interface-1.svg" height="42" alt="CSS3" />
+  <img src="images/tech-interface-2.svg" height="42" alt="Sass" />
+</p>
+
+**Frameworks &amp; libraries**
+
+<p>
+  <img src="images/tech-frameworks-0.svg" height="42" alt="Vue.js" />
+  <img src="images/tech-frameworks-1.svg" height="42" alt="Nuxt" />
+  <img src="images/tech-frameworks-2.svg" height="42" alt="React" />
+  <img src="images/tech-frameworks-3.svg" height="42" alt="Next.js" />
+  <img src="images/tech-frameworks-4.svg" height="42" alt="Vuetify" />
+</p>
+
+**AI &amp; data**
+
+<p>
+  <img src="images/tech-data-0.svg" height="42" alt="AI" />
+  <img src="images/tech-data-1.svg" height="42" alt="SQL" />
+  <img src="images/tech-data-2.svg" height="42" alt="SQL Server" />
+</p>
+
+**State management**
+
+<p>
+  <img src="images/tech-state-0.svg" height="42" alt="Redux" />
+  <img src="images/tech-state-1.svg" height="42" alt="Vuex" />
+</p>
+
+**Testing &amp; workflow**
+
+<p>
+  <img src="images/tech-tools-0.svg" height="42" alt="Jest" />
+  <img src="images/tech-tools-1.svg" height="42" alt="Git" />
+  <img src="images/tech-tools-2.svg" height="42" alt="npm" />
+  <img src="images/tech-tools-3.svg" height="42" alt="Yarn" />
+</p>
+
+## 03 / GitHub, in motion
+
+<p>
+  <a href="https://github.com/Rezansrv"><img src="images/stats.svg" width="440" alt="Reza's public GitHub activity; generated by the profile workflow" /></a>
+  <a href="https://github.com/Rezansrv?tab=repositories"><img src="images/languages.svg" width="350" alt="Languages across public repositories; generated by the profile workflow" /></a>
+</p>
+
+<sub>Public GitHub activity · Language distribution reflects repository code, not proficiency.</sub>
+
+### A little play between commits
+
+My contribution graph, reimagined as a Breakout animation.
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img src="images/breakout-light.svg" width="100%" alt="An animated Breakout replay built from Reza's GitHub contribution graph" />
 </picture>
+
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="images/typing-light-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="images/typing-dark-mobile.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/typing-light.svg" />
+    <img src="images/typing-dark.svg" width="100%" alt="Animated greeting: Hello, I'm Reza Naserivand. Front-end, AI and SQL Server." />
+  </picture>
+</p>
+
+<a href="https://www.linkedin.com/in/reza-naserivand/">
+  <img src="images/footer.svg" width="100%" alt="Let's build something worth using. Connect with Reza on LinkedIn." />
+</a>
+
+<p align="center"><sub>Thanks for stopping by. Have a look around the repositories.</sub></p>
